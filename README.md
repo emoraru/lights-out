@@ -3,7 +3,7 @@
 **A dark maze adventure where your only friend is your magical torch.**  
 Find all the gems before your light fades away… or get lost in the darkness forever. 🕯️💎  
 
-`![Gameplay Screenshot](images/LightsOut_closelabyrinth.png)`  
+![Gameplay Screenshot](images/LightsOut_game.png)
 
 ---
 
@@ -13,7 +13,7 @@ Find all the gems before your light fades away… or get lost in the darkness fo
 - Collect all gems to escape the darkness  
 - Watch out: when the light goes out… so do you  
 
-`![Gameplay Screenshot](images/LightsOut_game.png)`  
+![Gameplay Screenshot](images/LightsOut_closelabyrinth.png)
 
 ---
 
